@@ -149,6 +149,7 @@ alias reload="exec $SHELL -l"
 
 # git commands
 alias g="git"
+alias gs="git status"
 alias gcm="git commit -m"
 alias gaa="git add -A"
 alias gcam="git commit -am"
