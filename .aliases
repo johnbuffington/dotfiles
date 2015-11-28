@@ -10,8 +10,7 @@ alias -- -="cd -"
 alias d="cd ~/Documents/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/projects"
-alias g="git"
+alias p="cd ~/Projects"
 alias h="history"
 alias j="jobs"
 
@@ -147,3 +146,9 @@ alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resource
 
 # Reload the shell (i.e. invoke as a login shell)
 alias reload="exec $SHELL -l"
+
+# git commands
+alias g="git"
+alias gcm="git commit -m"
+alias gaa="git add -A"
+alias gcam="git commit -am"
