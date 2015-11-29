@@ -170,3 +170,7 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+  name = "John Gavin Buffington"
+  email = "john.g.buffington@gmail.com"
